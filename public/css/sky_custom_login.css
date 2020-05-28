@@ -1,0 +1,8 @@
+/* MyPlugin - Custom Login Styles */
+
+body.login {
+  background-color: #85C1E9; }
+body.login div#login form#loginform {
+  border-radius: 15px; }
+body.login .custom-message {
+  text-align: center; }
